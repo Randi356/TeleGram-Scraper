@@ -23,7 +23,7 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 version : 3.1
-    youtube.com/channel/UCnknCgg_3pVXS27ThLpw3xQ
+    https://t.me/FlashProSpeed
             """)
 
     def send_sms():
